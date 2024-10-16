@@ -1,0 +1,21 @@
+.body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar{
+    width: 100%;
+}
+
+.dropdown-menu{
+    width: 500px;
+}
+
+.container-productos{
+    margin: auto;
+}
+
+.producto{
+    width: 20rem;
+}
